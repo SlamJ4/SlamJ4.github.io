@@ -6,8 +6,8 @@
 #### 5 Allée du Val Fleuri
 >> #### 42700
 >> #### Firminy
-#### 06 45 61 27 66
-#### carrot.jordan42@gmail.com
+#### Téléphone
+#### Email
 ####
 ## **Mes Diplômes:**
 > - #### DNB (Brevet des collèges)
