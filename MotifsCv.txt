@@ -1,0 +1,6 @@
+Élements à changer:
+  
+  changer le H1 en H2 et voir si passe les autres H2 en H3 ou pas
+  enlever le max-width dans le css sur .portrait
+  mettre une taille fixe à l'img (gagner en perf)
+  chercher pour améliorer la resposivité sur mobile
